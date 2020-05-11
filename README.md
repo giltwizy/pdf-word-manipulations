@@ -11,7 +11,7 @@ It requires you to install docx2pdf package
 pip install docx2pdf
 ```
 
-**pdf_rotation**
+**pdf_rotation.py**
 
 This rotates the pdf file provided to the specified angle
 
