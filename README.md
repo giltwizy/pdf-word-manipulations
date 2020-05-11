@@ -21,3 +21,14 @@ pip install PyPDF2
 ```
 
 Be carefull on the case sensitivity of the package
+
+**pdf_rotation.py**
+
+This splits the pdf file pages
+
+It requires you to install PyPDF2 package
+```
+pip install PyPDF2
+```
+
+Be carefull on the case sensitivity of the package
