@@ -5,7 +5,7 @@ Python scripts to manipulate pdf &amp; word files
 
 This converts a word document file(.docx) into pdf 
 
-It requires you to install docx2pdf package before you run this file
+It requires you to install docx2pdf package
 
 ```
 pip install docx2pdf
