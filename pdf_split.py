@@ -4,7 +4,6 @@ from PyPDF2 import PdfFileReader, PdfFileWriter
 
 def pdf_splitter(path):
     fname = os.path.splitext(os.path.basename(path))[0]
-
     pdf = PdfFileReader(path)
     for page in range(pdf.getNumPages()):
         pdf_writer = PdfFileWriter()
